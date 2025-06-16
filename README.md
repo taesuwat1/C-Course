@@ -8,7 +8,7 @@
    - [ChatGPT](https://chatgpt.com/)
    - [Gemini](https://gemini.google.com/app)
    - [MS Copilot](https://copilot.microsoft.com/)
-   -- [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat)
+   - [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat)
 
 
 
