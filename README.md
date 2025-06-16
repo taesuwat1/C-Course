@@ -5,6 +5,10 @@
 4. [Github.com](https://github.com/)
 5. [Github Copilot](https://github.com/settings/copilot/features)
 6. AI Tools for Coding
+   - [ChatGPT](https://chatgpt.com/)
+   - [Gemini](https://gemini.google.com/app)
+   - [MS Copilot](https://copilot.microsoft.com/)
+   -- [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat)
 
 
 
