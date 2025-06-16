@@ -9,6 +9,9 @@
    - [Gemini](https://gemini.google.com/app)
    - [MS Copilot](https://copilot.microsoft.com/)
    - [Microsoft 365 Copilot](https://m365.cloud.microsoft/chat)
+7. [Source Codes-- Modern C++ for Absolute Beginners](https://github.com/Apress/Modern-C-Plus-Plus-for-Absolute-Beginners-2nd-ed)
+8. Advance Topics
+   - [Show your internet details using C++](
 
 
 
